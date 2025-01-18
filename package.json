@@ -10,8 +10,10 @@
     },
     "dependencies": {
         "@bhplugin/vue3-datatable": "^2.0.0",
+        "@capacitor/android": "^6.2.0",
         "@capacitor/cli": "^6.2.0",
         "@capacitor/core": "^6.2.0",
+        "@capacitor/ios": "^6.2.0",
         "@fullcalendar/core": "^6.1.15",
         "@fullcalendar/daygrid": "^6.1.15",
         "@fullcalendar/interaction": "^6.1.15",
